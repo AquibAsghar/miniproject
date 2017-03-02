@@ -6,13 +6,30 @@ h1 {
 	font-family: "Satisfy";
 	font-size: 80px;
 	text-align: center;
-	text-decoration: underline;
+	/*text-decoration: underline;*/
 	color:#191716;
 	margin: 20px 0px;
 }
 
 body {
 	background-color: #E0E2DB;
+}
+
+li {
+	display: inline-block;
+	float: left;
+	top:0px;
+	/*position: fixed;*/
+	width: 30vw;
+}
+
+#nav {
+	margin-left: 100px;
+	/*padding-right: 100px;*/
+}
+
+nav {
+	float:left;
 }
 
 section img {
@@ -29,6 +46,11 @@ footer img{
 	width: 50px;
 
 }
+
+p {
+	font-family: roboto;
+}
+
 @media screen and (min-width: 800px) {
 
 section img {
