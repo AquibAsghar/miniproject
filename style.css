@@ -6,7 +6,6 @@ h1 {
 	font-family: "Satisfy";
 	font-size: 80px;
 	text-align: center;
-	/*text-decoration: underline;*/
 	color:#191716;
 	margin: 20px 0px;
 }
@@ -20,7 +19,7 @@ li {
 	float: left;
 	top:0px;
 	/*position: fixed;*/
-	width: 20vw;
+	/*width: 30vw;*/
 }
 
 #nav {
